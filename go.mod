@@ -1,4 +1,4 @@
-module github.com/JackWSK/go-jstream/jstream
+module github.com/JackWSK/go-jstream
 
 go 1.14
 
